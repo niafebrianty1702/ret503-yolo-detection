@@ -1,0 +1,8 @@
+path: /home/nia/Downloads/yolo-pipeline/yolo-dataset-pipeline/dataset_v1
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names:
+  0: botol
+  1: box

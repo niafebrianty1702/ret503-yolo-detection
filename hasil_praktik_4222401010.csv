@@ -1,0 +1,5 @@
+nim,nama,waktu,komputer,sidik_dataset,eksperimen,map50_95_val,map50_val,precision,recall,detik
+4222401010,Nia Febrianty,2026-10-16 14:43:55,Nia,debd32c276b32c30,E1_pretrained,0.1722,0.3838,0.3284,0.4001,201
+4222401010,Nia Febrianty,2026-10-16 14:43:55,Nia,debd32c276b32c30,E2_scratch,0.0000,0.0000,0.0000,0.0000,197
+4222401010,Nia Febrianty,2026-10-16 14:43:55,Nia,debd32c276b32c30,E3_tuning,0.1722,0.3838,0.3284,0.4001,197
+4222401010,Nia Febrianty,2026-10-16 14:43:55,Nia,debd32c276b32c30,TEST(E1_pretrained),0.1059,0.3135,0.3158,0.3000,

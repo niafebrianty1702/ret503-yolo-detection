@@ -1,0 +1,16 @@
+HASIL PRAKTIK
+Mahasiswa : Nia Febrianty (4222401010) | 2026-10-16 14:43:55 | Nia | sidik jari dataset debd32c276b32c30
+
+Eksperimen        mAP50-95 val   mAP50 val  Precision   Recall  Waktu(dtk)
+E1_pretrained           0.1722      0.3838     0.3284   0.4001         201
+E2_scratch              0.0000      0.0000     0.0000   0.0000         197
+E3_tuning               0.1722      0.3838     0.3284   0.4001         197
+
+Manfaat transfer learning (E1-E2): +0.1722 mAP50-95
+Hasil tuning lr0=0.001 (E3-E1): +0.0000 mAP50-95
+
+Model terbaik (val): E1_pretrained
+Uji test (sekali) : mAP50-95=0.1059 mAP50=0.3135 P=0.3158 R=0.3000
+mAP50-95 per kelas (val, model terbaik):
+  botol       0.1535
+  box         0.1909

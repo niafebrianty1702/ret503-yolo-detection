@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+runs/
+runs_praktik/
+*.pt
+hasil_balik/
+dataset_yolo/cek_visual/
